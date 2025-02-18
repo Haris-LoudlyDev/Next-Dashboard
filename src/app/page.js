@@ -33,9 +33,9 @@ export default function Home() {
           }`}
         >
           <Dashboard />
-        </div>
-      </div>
-      <Login/>
+        </div>    
+      </div> 
+      <Login/> 
     </div>
-  );
+  ); 
 }
